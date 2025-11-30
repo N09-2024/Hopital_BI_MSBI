@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\BI Project 2025.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|solutionrelative:BI Project 2025.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\BI Project 2025.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|XML",
+      "RelativeMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|solutionrelative:BI Project 2025.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|XML"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\BI Project 2025.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|solutionrelative:BI Project 2025.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Fact Patient.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|solutionrelative:Fact Patient.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Fact Service Weekly.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|solutionrelative:Fact Service Weekly.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|solutionrelative:Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Date 1.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|solutionrelative:Dim Date 1.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Patient.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|solutionrelative:Dim Patient.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Time.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|solutionrelative:Dim Time.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Staff.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|solutionrelative:Dim Staff.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Service.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|solutionrelative:Dim Service.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Event.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{FBACD4B0-89AE-2881-D856-E33578C36CA8}|Projet_SSAS_BI.dwproj|solutionrelative:Dim Event.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BI Project 2025.cube [Conception]",
+              "DocumentMoniker": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\BI Project 2025.cube",
+              "RelativeDocumentMoniker": "BI Project 2025.cube",
+              "ToolTip": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\BI Project 2025.cube [Conception]",
+              "RelativeToolTip": "BI Project 2025.cube [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T21:41:12.896Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BI Project 2025.dsv [Conception]",
+              "DocumentMoniker": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\BI Project 2025.dsv",
+              "RelativeDocumentMoniker": "BI Project 2025.dsv",
+              "ToolTip": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\BI Project 2025.dsv [Conception]",
+              "RelativeToolTip": "BI Project 2025.dsv [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T22:56:26.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BI Project 2025.cube [XML]",
+              "DocumentMoniker": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\BI Project 2025.cube",
+              "RelativeDocumentMoniker": "BI Project 2025.cube",
+              "ToolTip": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\BI Project 2025.cube [XML]",
+              "RelativeToolTip": "BI Project 2025.cube [XML]",
+              "ViewState": "AgIAAN8DAAAAAAAAAAAqwOkDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-28T00:53:36.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fact Service Weekly.dim [Conception]",
+              "DocumentMoniker": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Fact Service Weekly.dim",
+              "RelativeDocumentMoniker": "Fact Service Weekly.dim",
+              "ToolTip": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Fact Service Weekly.dim [Conception]",
+              "RelativeToolTip": "Fact Service Weekly.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-28T00:26:24.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fact Patient.dim [Conception]",
+              "DocumentMoniker": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Fact Patient.dim",
+              "RelativeDocumentMoniker": "Fact Patient.dim",
+              "ToolTip": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Fact Patient.dim [Conception]",
+              "RelativeToolTip": "Fact Patient.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-27T23:13:33.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Date 1.dim [Conception]",
+              "DocumentMoniker": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Date 1.dim",
+              "RelativeDocumentMoniker": "Dim Date 1.dim",
+              "ToolTip": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Date 1.dim [Conception]",
+              "RelativeToolTip": "Dim Date 1.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T23:34:45.49Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d52cee1-a15c-42fd-8d30-faacc8d1dd02}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dim Staff.dim [Conception]",
+              "DocumentMoniker": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Staff.dim",
+              "RelativeDocumentMoniker": "Dim Staff.dim",
+              "ToolTip": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Staff.dim [Conception]",
+              "RelativeToolTip": "Dim Staff.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T14:19:43.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Date.dim [Conception]",
+              "DocumentMoniker": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Dim Date.dim",
+              "ToolTip": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Date.dim [Conception]",
+              "RelativeToolTip": "Dim Date.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T14:18:19.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dim Time.dim [Conception]",
+              "DocumentMoniker": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Time.dim",
+              "RelativeDocumentMoniker": "Dim Time.dim",
+              "ToolTip": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Time.dim [Conception]",
+              "RelativeToolTip": "Dim Time.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T14:20:08.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dim Patient.dim [Conception]",
+              "DocumentMoniker": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Patient.dim",
+              "RelativeDocumentMoniker": "Dim Patient.dim",
+              "ToolTip": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Patient.dim [Conception]",
+              "RelativeToolTip": "Dim Patient.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T14:12:45.426Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dim Service.dim [Conception]",
+              "DocumentMoniker": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Service.dim",
+              "RelativeDocumentMoniker": "Dim Service.dim",
+              "ToolTip": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Service.dim [Conception]",
+              "RelativeToolTip": "Dim Service.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T14:19:20.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dim Event.dim [Conception]",
+              "DocumentMoniker": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Event.dim",
+              "RelativeDocumentMoniker": "Dim Event.dim",
+              "ToolTip": "C:\\Users\\misba\\source\\repos\\Projet_SSAS_BI\\Dim Event.dim [Conception]",
+              "RelativeToolTip": "Dim Event.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T14:18:51.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

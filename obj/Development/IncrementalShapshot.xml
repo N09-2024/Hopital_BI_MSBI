@@ -1,0 +1,124 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>Projet_SSAS_BI</Database>
+    <Server>MSI\SQLBI</Server>
+    <ConnectionString>Data Source=MSI\SQLBI;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>rfZNeud+8PG6cMYU23laCFjCL3I=26/11/2025 22:28:5626/11/2025 14:10:02</TimeStamp>
+        <ID>
+          <String>BI Project 2025</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>pGctHnzlwpW00x0ubRJRBQdyhzE=28/11/2025 17:02:5428/11/2025 09:11:15</TimeStamp>
+        <ID>
+          <String>BI Project 2025</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>b22u2vN7LDZh3CLbvHi9NI9cShk=26/11/2025 15:12:4526/11/2025 15:12:45</TimeStamp>
+        <ID>
+          <String>Dim Patient</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>TuZWt/CunBlah9ELIIhf5zo+Gdk=26/11/2025 15:18:1926/11/2025 15:18:19</TimeStamp>
+        <ID>
+          <String>Dim Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>hP7P7D1KRAOisxhTDPAcA1sq3lk=26/11/2025 15:18:5126/11/2025 15:18:51</TimeStamp>
+        <ID>
+          <String>Dim Event</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>OovEAS+EKwV+Mle1Ojai1mu77o4=26/11/2025 15:19:2026/11/2025 15:19:20</TimeStamp>
+        <ID>
+          <String>Dim Service</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>hUUK9HC+3grSOdUur6Xe0tXmQP4=26/11/2025 15:19:4326/11/2025 15:19:43</TimeStamp>
+        <ID>
+          <String>Dim Staff</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>LuoA41FNiZtyvtBsqceFfkyw5Pg=26/11/2025 15:20:0826/11/2025 15:20:08</TimeStamp>
+        <ID>
+          <String>Dim Time</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>R+0dBNVN7lGSf+indGAedXzSfF4=28/11/2025 01:26:3326/11/2025 15:58:46</TimeStamp>
+        <ID>
+          <String>Fact Patient</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>qrPSBmuPLyQ1yGIg3Bd+K70vFn8=26/11/2025 15:58:4626/11/2025 15:58:46</TimeStamp>
+        <ID>
+          <String>Fact Service Weekly</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>m/WjwOqdswD9zDAOk0ccKgOdIBU=26/11/2025 15:58:4626/11/2025 15:58:46</TimeStamp>
+        <ID>
+          <String>Fact Staff Schedule</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>DJOxTV2K0OwzucE5hI+S8X9CnnI=27/11/2025 00:34:4527/11/2025 00:34:45</TimeStamp>
+        <ID>
+          <String>Dim Date 1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>mfBxMms7B5Gv48a3UDMB7U6jeZI=28/11/2025 17:02:5428/11/2025 09:11:15DP1OiOmX6JtyQjDqLZkWp3OcfCY=28/11/2025 17:02:5426/11/2025 15:58:46</TimeStamp>
+        <ID>
+          <String>BI Project 2025</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>IrZfE7VUInLl4Yy1ZQO/lIR3ToU=26/11/2025 13:39:1726/11/2025 13:39:16</TimeStamp>
+      <ID>
+        <String>Projet_SSAS_BI</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2025-11-28T16:09:37.346667Z</LastDeployed>
+</DeploymentSnapshot>
