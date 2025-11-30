@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\misba\\source\\repos\\Projet_BI_SSRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65CC9631-D184-9BA7-0C7F-5B9140E82158}|Projet_BI_SSRS.rptproj|C:\\Users\\misba\\source\\repos\\Projet_BI_SSRS\\RapportFactPatient.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{65CC9631-D184-9BA7-0C7F-5B9140E82158}|Projet_BI_SSRS.rptproj|solutionrelative:RapportFactPatient.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RapportFactPatient.rdl [Conception]",
+              "DocumentMoniker": "C:\\Users\\misba\\source\\repos\\Projet_BI_SSRS\\RapportFactPatient.rdl",
+              "RelativeDocumentMoniker": "RapportFactPatient.rdl",
+              "ToolTip": "C:\\Users\\misba\\source\\repos\\Projet_BI_SSRS\\RapportFactPatient.rdl [Conception]",
+              "RelativeToolTip": "RapportFactPatient.rdl [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-28T20:23:24.713Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
